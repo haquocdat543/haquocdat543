@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/3a80ba31-94b7-41b5-8359-c3d242fb0719 "AWS Certified Solutions Architect – Professional")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/6c439fbd-c030-49de-8e81-2ef455adb930 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
 
 ### Container and virtualization 
